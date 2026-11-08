@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — LinkSnap</title>
+<style>
+body{margin:0;background:#080d18;color:#f5f7ff;font-family:Arial,sans-serif;line-height:1.8}
+main{max-width:800px;margin:55px auto;padding:25px}
+h1,h2{color:#36c9ed}
+p,li{color:#b5c1d3}
+a{color:#36c9ed}
+</style>
+</head>
+<body>
+<main>
+<a href="index.html">← Back to LinkSnap</a>
+<h1>Privacy Policy</h1>
+<p>Last updated: 8 November 2026</p>
+<h2>1. Introduction</h2>
+<p>This policy explains how LinkSnap handles information when you use the application.</p>
+<h2>2. Information you provide</h2>
+<p>Information entered to generate QR codes is processed by the app to create those codes. The app also stores saved QR history, collections and preferences locally on your device.</p>
+<h2>3. Photos</h2>
+<p>When you choose a photo for Photo Studio, it is used to customise your QR code. The app does not operate its own photo-upload service.</p>
+<h2>4. Advertising</h2>
+<p>LinkSnap uses Google AdMob to display advertisements. Google and its advertising partners may collect device and usage information to provide and measure ads, subject to their applicable policies and settings.</p>
+<p>Learn more: <a href="https://policies.google.com/privacy">Google Privacy Policy</a>.</p>
+<h2>5. Data sharing</h2>
+<p>LinkSnap does not operate its own user-account or cloud-storage service. Information handled by third-party services, including advertising providers, is subject to their own privacy policies.</p>
+<h2>6. Data control</h2>
+<p>You can manage saved QR codes and app preferences within the app. Uninstalling the app may remove locally stored app data.</p>
+<h2>7. Children</h2>
+<p>LinkSnap is not designed to knowingly collect personal information directly from children.</p>
+<h2>8. Changes</h2>
+<p>This policy may be updated as the app changes. The latest version will be published on this page.</p>
+</main>
+</body>
+</html>
